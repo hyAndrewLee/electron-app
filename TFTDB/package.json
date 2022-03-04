@@ -21,7 +21,7 @@
     "react-router-dom": "^6.0.2",
     "ts-loader": "^9.2.6"
   },
-  "devDependencies": {
+  "devDependencies": { 
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-react": "^7.16.0",
     "@types/react": "^17.0.37",

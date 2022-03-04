@@ -2,7 +2,7 @@ import * as React from 'react';
 import * as ReactDOM from 'react-router';
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
 
-
+ 
 const NavBar = () => {
   return (
     <div id="navbar">

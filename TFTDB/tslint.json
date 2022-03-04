@@ -8,4 +8,4 @@
   "scripts": {
     "tslint-check": "tslint-config-prettier-check ./tslint.json"
   }
-}
+} 

@@ -5,7 +5,7 @@ const HomeContainer = () => {
     <div>
       <p>test</p>
     </div>
-  )
+  ) 
 };
 
 export default HomeContainer;

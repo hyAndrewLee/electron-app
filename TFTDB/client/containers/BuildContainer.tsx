@@ -1,14 +1,15 @@
 import * as React from 'react';
 import { BrowserRouter } from 'react-router-dom';
+import BoardContainer from './BoardContainer';
 
-const BoardContainer = () => {
+const BuildContainer = () => {
   return (
     <div id="board">
       <div id="traits">
         test
       </div>
       <div id="comp">
-test
+         {BoardContainer}
       </div>
       <div id="items">
         test
@@ -17,4 +18,4 @@ test
   )
 };
 
-export default BoardContainer;
+export default BuildContainer;

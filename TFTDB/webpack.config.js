@@ -15,7 +15,7 @@ module.exports = {
     hot: true,
     proxy: {
       '/api': '3000'
-    }
+    } 
 	},
   module: {
 		rules: [
